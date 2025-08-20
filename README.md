@@ -70,5 +70,3 @@ The Arduino Uno code (`gesture_fan.ino`) is provided in this repository. Upload 
 * Integrate with **IoT platforms** for remote control.
 * Extend to **multiple appliances** (light, AC, etc.).
 
-
-👉 Do you want me to also create a **circuit diagram (schematic image)** for this project so you can attach it in the README?
